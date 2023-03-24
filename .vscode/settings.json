@@ -1,0 +1,5 @@
+{
+    "scssReminder.sourceFiles": [
+        "./src/css/stylesheets/_custom.scss"
+    ]
+}
